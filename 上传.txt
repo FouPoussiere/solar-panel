@@ -1,0 +1,5 @@
+git add .
+git commit -m "这里写你的修改说明，例如：修复了某个bug"
+git push
+
+也可以先git pull保证同步
